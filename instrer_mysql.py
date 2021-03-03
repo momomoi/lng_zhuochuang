@@ -3,7 +3,6 @@ import time
 from collections import OrderedDict
 from conn_mysql import ConnMysqlDB
 
-# from 爬虫.lng_卓创 import
 
 
 conn = ConnMysqlDB()
